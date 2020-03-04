@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1555499666 source:c:\users\claudia\desktop\poo-t2\main.cpp
+	<iostream>
+	"Object.h"
+	"Points.h"
+	"Complex.h"
+	"ObArray.h"
+
+1555493399 source:c:\users\claudia\desktop\poo-t2\object.cpp
+	<iostream>
+	"Object.h"
+
+1555493772 c:\users\claudia\desktop\poo-t2\object.h
+	<iostream>
+
+1555496377 source:c:\users\claudia\desktop\poo-t2\points.cpp
+	<iostream>
+	<fstream>
+	"Points.h"
+
+1555496325 c:\users\claudia\desktop\poo-t2\points.h
+	<iostream>
+	"Object.h"
+
+1555496538 source:c:\users\claudia\desktop\poo-t2\complex.cpp
+	<iostream>
+	<fstream>
+	"Complex.h"
+
+1555496461 c:\users\claudia\desktop\poo-t2\complex.h
+	<iostream>
+	<iostream>
+	"Object.h"
+
+1555495408 c:\users\claudia\desktop\poo-t2\obarray.h
+	<iostream>
+	"Object.h"
+
+1555495441 source:c:\users\claudia\desktop\poo-t2\obarray.cpp
+	<iostream>
+	<fstream>
+	"ObArray.h"
+	"Points.h"
+	"Complex.h"
+
+1581318454 source:c:\users\asus\desktop\poo_tema2-20200304t202615z-001\poo_tema2\poo_tema2_muscalu_claudia\complex.cpp
+	<iostream>
+	<fstream>
+	"Complex.h"
+
+1581318446 c:\users\asus\desktop\poo_tema2-20200304t202615z-001\poo_tema2\poo_tema2_muscalu_claudia\complex.h
+	<iostream>
+	<iostream>
+	"Object.h"
+
+1581318454 c:\users\asus\desktop\poo_tema2-20200304t202615z-001\poo_tema2\poo_tema2_muscalu_claudia\object.h
+	<iostream>
+
+1581318454 source:c:\users\asus\desktop\poo_tema2-20200304t202615z-001\poo_tema2\poo_tema2_muscalu_claudia\main.cpp
+	<iostream>
+	"Object.h"
+	"Points.h"
+	"Complex.h"
+	"ObArray.h"
+
+1581318454 c:\users\asus\desktop\poo_tema2-20200304t202615z-001\poo_tema2\poo_tema2_muscalu_claudia\points.h
+	<iostream>
+	"Object.h"
+
+1581318454 c:\users\asus\desktop\poo_tema2-20200304t202615z-001\poo_tema2\poo_tema2_muscalu_claudia\obarray.h
+	<iostream>
+	"Object.h"
+
+1581318454 source:c:\users\asus\desktop\poo_tema2-20200304t202615z-001\poo_tema2\poo_tema2_muscalu_claudia\obarray.cpp
+	<iostream>
+	<fstream>
+	"ObArray.h"
+	"Points.h"
+	"Complex.h"
+
+1581318454 source:c:\users\asus\desktop\poo_tema2-20200304t202615z-001\poo_tema2\poo_tema2_muscalu_claudia\object.cpp
+	<iostream>
+	"Object.h"
+
+1581318454 source:c:\users\asus\desktop\poo_tema2-20200304t202615z-001\poo_tema2\poo_tema2_muscalu_claudia\points.cpp
+	<iostream>
+	<fstream>
+	"Points.h"
+
